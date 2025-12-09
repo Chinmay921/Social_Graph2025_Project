@@ -23,8 +23,7 @@ This project analyzes the network structure of 104 secondary characters from The
 ## Repository Structure
 
 ```
-├── simpsons_final.ipynb          # Main analysis notebook
-├── Final_Report.tex              # LaTeX report
+├── Group25_simpsons_Project_B.ipynb          # Main analysis notebook
 ├── Figures/                      # Generated figures
 │   ├── figure1_network_overview.png
 │   ├── figure2_centrality_comparison.png
