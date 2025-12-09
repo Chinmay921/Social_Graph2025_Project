@@ -29,7 +29,6 @@ This project analyzes the network structure of 104 secondary characters from The
 │   ├── figure2_centrality_comparison.png
 │   ├── figure3_temporal_evolution.png
 │   └── figure4_non_protagonist_hubs.png
-├── wiki_pages_simpsons_copy/     # Character wiki data (499 files)
 ├── character_centralities.csv    # Centrality measures
 ├── character_centrality_comparison.csv
 └── character_temporal_trajectories.csv
